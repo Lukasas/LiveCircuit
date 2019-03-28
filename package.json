@@ -14,7 +14,8 @@
     "circuit",
     "simulation"
   ],
-  "author": "Lukáš Chábek",
+  "author": "Lukáš Chábek <lukaschabek@gmail.com>",
+  "contributors": ["Kristýna Zaklová"],
   "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/Lukasas/LiveCircuit/issues"
